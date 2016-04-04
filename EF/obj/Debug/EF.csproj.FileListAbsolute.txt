@@ -1,0 +1,10 @@
+C:\Users\huseyin.altunbas\Desktop\EF\EF\bin\Debug\EF.exe.config
+C:\Users\huseyin.altunbas\Desktop\EF\EF\bin\Debug\EF.exe
+C:\Users\huseyin.altunbas\Desktop\EF\EF\bin\Debug\EF.pdb
+C:\Users\huseyin.altunbas\Desktop\EF\EF\bin\Debug\EntityFramework.dll
+C:\Users\huseyin.altunbas\Desktop\EF\EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\huseyin.altunbas\Desktop\EF\EF\bin\Debug\EntityFramework.xml
+C:\Users\huseyin.altunbas\Desktop\EF\EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\huseyin.altunbas\Desktop\EF\EF\obj\Debug\EF.csprojResolveAssemblyReference.cache
+C:\Users\huseyin.altunbas\Desktop\EF\EF\obj\Debug\EF.exe
+C:\Users\huseyin.altunbas\Desktop\EF\EF\obj\Debug\EF.pdb
